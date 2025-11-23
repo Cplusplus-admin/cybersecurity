@@ -9,3 +9,6 @@
         * [🟢 Chiaroscuro](ctf/2025/pointeroverflowctf/web/chiaroscuro.md)
         * [🟢 Mason initiate](ctf/2025/pointeroverflowctf/web/mason-initiate.md)
         * [🟢 this must be the place](ctf/2025/pointeroverflowctf/web/this-must-be-the-place.md)
+    * [🟡 patriotCTF](readme/2025/patriotctf/README.md)
+      * [🟣 web](readme/2025/patriotctf/web/README.md)
+        * [🟢 Connection Tester](readme/2025/patriotctf/web/connection-tester.md)
