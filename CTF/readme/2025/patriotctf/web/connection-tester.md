@@ -10,7 +10,7 @@ so back to the topic we will test login page with sqli payload, deleting paramet
 
 <figure><img src="../../../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
-ok it worked on sqli payload
+ok it worked with sqli payload
 
 ```
 admin'--
