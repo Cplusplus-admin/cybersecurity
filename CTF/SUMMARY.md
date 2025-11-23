@@ -13,3 +13,4 @@
       * [🟣 web](readme/2025/patriotctf/web/README.md)
         * [🟢 Connection Tester](readme/2025/patriotctf/web/connection-tester.md)
         * [🟢 Trust Vault](readme/2025/patriotctf/web/trust-vault.md)
+        * [🟢 Trust Fall](readme/2025/patriotctf/web/trust-fall.md)
