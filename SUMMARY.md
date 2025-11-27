@@ -1,0 +1,16 @@
+# Table of contents
+
+* [⭐ CTF](README.md)
+  * [🔴 2025](readme/2025/README.md)
+    * [🟡 pointeroverflowctf](readme/2025/pointeroverflowctf/README.md)
+      * [🟣 web](readme/2025/pointeroverflowctf/web/README.md)
+        * [🟢 all paths lead home chall](readme/2025/pointeroverflowctf/web/all-paths-lead-home-chall.md)
+        * [🟢 what's mine is yours](readme/2025/pointeroverflowctf/web/whats-mine-is-yours.md)
+        * [🟢 Chiaroscuro](readme/2025/pointeroverflowctf/web/chiaroscuro.md)
+        * [🟢 Mason initiate](readme/2025/pointeroverflowctf/web/mason-initiate.md)
+        * [🟢 this must be the place](readme/2025/pointeroverflowctf/web/this-must-be-the-place.md)
+    * [🟡 patriotCTF](readme/2025/patriotctf/README.md)
+      * [🟣 web](readme/2025/patriotctf/web/README.md)
+        * [🟢 Connection Tester](readme/2025/patriotctf/web/connection-tester.md)
+        * [🟢 Trust Vault](readme/2025/patriotctf/web/trust-vault.md)
+        * [🟢 Trust Fall](readme/2025/patriotctf/web/trust-fall.md)
